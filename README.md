@@ -1,1 +1,1 @@
-# machine learning code for quantitative finance modelling
+# Sentiment analysis based on SEC-registered firm's 10-k report using NLP
