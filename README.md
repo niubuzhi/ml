@@ -1,1 +1,1 @@
-# machine learning code depository
+# machine learning code for quantitative finance modelling
