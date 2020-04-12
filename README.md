@@ -1,1 +1,1 @@
-# Sentiment analysis based on SEC-registered firm's 10-k report using NLP
+# master branch for all machine learning projects
