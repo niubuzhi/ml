@@ -1,1 +1,1 @@
-# master branch for all machine learning projects
+# stock price trend prediction using keras LSTM
