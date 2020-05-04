@@ -1,1 +1,1 @@
-# master branch for all machine learning projects
+# supervised learning using KNN
